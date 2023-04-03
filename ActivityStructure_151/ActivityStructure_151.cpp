@@ -13,5 +13,7 @@ int main()
 	Mahasiswa mhs1, mhs2;
 
 	mhs1.nim = "20220140151";
-	mhs.nama
+	mhs1.nama = "Hilal";
+	mhs1.alamat = "Jogja";
+	mhs.umur = 19;
 }
